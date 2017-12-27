@@ -3,7 +3,7 @@
  *
  * @package	Codeigniter Library for Nestable Menu Jquery 
  * @author	Fuad Ar-Radhi
- * @link	https://github.com/arradyscode/arc-nestable
+ * @link	https://github.com/arradyscode/ci-nestable
  * @since	Version 1.0.0
  *
  * @filesource
